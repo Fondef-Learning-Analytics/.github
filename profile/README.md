@@ -1,7 +1,5 @@
 # FONDEF Learning Analytics Project - EOL, Universidad de Chile
 
-![Organization Banner](https://eol.uchile.cl/static/eol-uchile-2020/images/logo.png)
-
 Welcome to the official GitHub organization of the FONDEF Learning Analytics project. This project is an initiative of EOL (Oficina de Educación Online) at Universidad de Chile and is funded by the Fondo de Fomento al Desarrollo Científico y Tecnológico (FONDEF).
 
 ## About Us
