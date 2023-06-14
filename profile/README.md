@@ -14,11 +14,11 @@ Our repositories reflect a diverse array of projects, all aiming to leverage dat
 
 Please refer to each repository for specific details on its purpose, structure, and how to contribute.
 
-//## Contributing
+<!--## Contributing
 
-//We highly appreciate contributions from the community. Whether you're fixing bugs, proposing new features, improving our documentation, or spreading the word, we value all forms of contribution.
+We highly appreciate contributions from the community. Whether you're fixing bugs, proposing new features, improving our documentation, or spreading the word, we value all forms of contribution.
 
-//For more information, please refer to the `CONTRIBUTING.md` file in each repository or reach out to us directly.
+For more information, please refer to the `CONTRIBUTING.md` file in each repository or reach out to us directly.-->
 
 ## Contact
 
@@ -28,6 +28,6 @@ If you have any questions, suggestions, or would like to get involved, don't hes
 
 We're excited to have you here and look forward to your contributions!
 
-//## License
+<!--## License
 
-//Unless specified otherwise in a repository, our projects are licensed under the MIT License. For more information, please see the `LICENSE.md` file in each repository.
+Unless specified otherwise in a repository, our projects are licensed under the MIT License. For more information, please see the `LICENSE.md` file in each repository.-->
